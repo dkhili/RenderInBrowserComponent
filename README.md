@@ -1,2 +1,0 @@
-# RenderInBrowserComponent
-Created with CodeSandbox
